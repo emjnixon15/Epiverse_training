@@ -1,0 +1,21 @@
+Package: Epiverse_training
+Type: Package
+Title: The Title of the Project
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Emily",
+           family  = "Nixon",
+           role    = c("aut", "cre", "cph"),
+           email   = "emily.nixon@liverpool.ac.uk",
+           comment = c(ORCID = "0000-0002-1626-9296")))
+Description: A paragraph providing a full description of the project (on 
+    several lines...)
+URL: https://github.com/emjnixon15/Epiverse_training
+BugReports: https://github.com/emjnixon15/Epiverse_training/issues
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    devtools,
+    here
