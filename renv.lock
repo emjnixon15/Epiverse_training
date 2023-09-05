@@ -765,6 +765,13 @@
       ],
       "Hash": "d6db1667059d027da730decdc214b959"
     },
+    "grates": {
+      "Package": "grates",
+      "Version": "1.1.0",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Hash": "c937fa4cc110a4aabae986a6393dfb15"
+    },
     "gtable": {
       "Package": "gtable",
       "Version": "0.3.4",
@@ -927,6 +934,21 @@
         "uuid"
       ],
       "Hash": "99df65cfef20e525ed38c3d2577f7190"
+    },
+    "incidence2": {
+      "Package": "incidence2",
+      "Version": "2.2.1",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Requirements": [
+        "R",
+        "data.table",
+        "grDevices",
+        "grates",
+        "pillar",
+        "utils"
+      ],
+      "Hash": "bd272708a92103589276504d9c3e8855"
     },
     "ini": {
       "Package": "ini",
